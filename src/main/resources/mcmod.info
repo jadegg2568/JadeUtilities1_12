@@ -1,0 +1,15 @@
+[
+{
+  "modid": "jadeutilities",
+  "name": "JadeUtilities",
+  "description": "JadeUtilities mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["JadeGG_"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
